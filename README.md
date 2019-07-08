@@ -6,4 +6,6 @@
 <h4>담당업무 : (관리자) 프랜차이즈 관리</h4>
 
 <img src="https://postfiles.pstatic.net/MjAxOTA2MjdfMTEg/MDAxNTYxNjQ3MDExMzMz.-LvICyDmC-dQe61PPkzckh2GKzHAKgFYOn_cMEloAV0g.MVCSkS_7G8LyszJIuPXuhFQHoSBCRWXnHEJ7kiPSxZ0g.PNG.kidsgk4/image.png?type=w580"/>
-<br>
+
+
+<img src="https://postfiles.pstatic.net/MjAxOTA3MDhfMzAw/MDAxNTYyNTY2NjMxMjY4.i3ykZMsgLbXUwLd2xq6R4QV8pYroMFY7yxqjUfVHPE0g.2RTtSo7IIKyLVvj2W9eSzF-swc1-tPb5ED6eVFkDV0kg.PNG.kidsgk4/image.png?type=w580"/>
